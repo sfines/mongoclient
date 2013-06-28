@@ -1,1 +1,5 @@
-This file was created by IntelliJ IDEA 12.1.4 for binding GitHub repository
+This is a thin MongoDB wrapper for scala that uses the mongo java driver on the back end.
+
+It comes from the book _Scala In Action_. I've modified it to reduce the number of compilation warnings as well as
+to make it match my coding style a little better.
+
